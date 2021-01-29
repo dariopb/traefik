@@ -25,7 +25,7 @@ type File struct {
 	Elements []Element
 }
 
-// Element an element is a simplified version of a symbol.
+// Element is a simplified version of a symbol.
 type Element struct {
 	Name  string
 	Value string
